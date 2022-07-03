@@ -1,3 +1,8 @@
+Personal notes:
+
+Here check for the tensorboard integration
+https://github.com/jimgoo/zipline-tensorboard
+
 Zipline BitMEX
 ==============
 
